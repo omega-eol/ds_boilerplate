@@ -28,6 +28,7 @@ install.packages("GenSA");
 # classifiers
 install.packages("randomForest");
 install.packages("gbm");
+install.packages('rpart');
 
 # ds support
 install.packages('caret');

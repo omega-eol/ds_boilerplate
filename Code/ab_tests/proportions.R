@@ -1,5 +1,6 @@
 # Given a baseline convertion rate of 10% and desire lift of 1%,
 # find needed sample size for each group (assume groups are the same size)
+# see more examples here: http://www.evanmiller.org/ab-testing
 
 ## clear workspace
 rm(list=ls());
