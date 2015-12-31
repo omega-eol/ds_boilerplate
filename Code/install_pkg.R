@@ -32,3 +32,5 @@ install.packages('rpart');
 
 # ds support
 install.packages('caret');
+install.packages('PRROC');
+

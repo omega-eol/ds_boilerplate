@@ -13,6 +13,7 @@ if (.Platform$OS.type == "unix") {
 };
 # random forest library
 library('randomForest');
+library('caret');
 
 # load validation function
 source('D:/Repo/ds_boilerplate/Code/utils/validate.R');
